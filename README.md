@@ -1,6 +1,8 @@
 ### Hi there 👋
 <img src="https://github.com/fabianwilliams/fabianwilliams/blob/main/fabstwitterbanner1500x500.png" alt="banner with fabian williams speaking at a Microsoft Conference in Vegas">
 
+### First, my old GitHub profile is archived due to loosing my recovery keys, all my public work is still there:  https://github.com/fabianwilliams-zz 
+
 * 🦒 I work as an Senior Program Manager on the Microsoft Graph Team at Microsoft 
 * 💬 Ask me about Microsoft Graph in general but my primary focus area at Microsoft is on Microsoft Teams and Microsoft Search
 * 🌍 I live in the Washington DC Metro Area in the United States
