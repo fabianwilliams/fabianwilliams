@@ -3,7 +3,7 @@
 
 ### First, my old GitHub profile is archived due to loosing my recovery keys, all my public work is still there:  https://github.com/fabianwilliams-zz 
 
-* 🦒 I work as an Principal Program Manager on the Microsoft Graph Team at Microsoft 
+* 🦒 I work as an Principal Product Manager on the Microsoft 365 Copilot and Graph Team at Microsoft 
 * 💬 Ask me about Microsoft Graph in general but my primary focus area at Microsoft is on Microsoft Teams and Microsoft Search
 * 🌍 I live in the Washington DC Metro Area in the United States
 * 🎉 I was a Microsoft MVP for Visual Studio Development Technologies as well as Azure between 2014 to 2020, now I am a part of the MVP Reconnect program.
