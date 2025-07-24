@@ -10,6 +10,8 @@
 * 🌱 I’m currently leading products on Artifical Intelligence using Semantic Kernel, Model Context Protocol (MCP) and Agent to Agent (A2A)
 * 📫 Effective ways to reach me are on twitter @fabianwilliams or LinkedIn /in/fabiangwilliams unless you have my phone number of course 😄
 
+### For most of these Repos here publicly you can see a Video, Code Walk-Thru on my YouTube channel here. Consider Subscribing! - https://go.fabswill.com
+
 <!--
 **fabianwilliams/fabianwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
